@@ -2,6 +2,7 @@
 #  RNN-LSTM Aggressiveness Text Classifier
 
 This project demonstrates a **text classification model** built using **Recurrent Neural Networks (RNNs)** with **LSTM** layers to detect **aggressive content in textual data**. It includes detailed data preprocessing, model training, and evaluation — all performed in a Jupyter Notebook.
+Objective: To classify tweets as aggressive or not, given geographical, temporal and content-based features
 
 ## 📌 Highlights
 
